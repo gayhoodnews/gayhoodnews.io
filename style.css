@@ -65,7 +65,7 @@ section figure {
 }
 
 
-figure {
+img {
     display: inline-block; 
     text-align: left; /* Left-align the figure */
 }
