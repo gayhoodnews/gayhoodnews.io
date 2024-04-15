@@ -44,6 +44,7 @@ section ul>li {
     display: flex;
     justify-content: center;
     margin-bottom: 25px;
+    text-align: left;
     /* Add margin to create space between sections */
 }
 
@@ -64,16 +65,9 @@ section figure {
     padding: 0;
 }
 
-
-img {
-    display: inline-block; 
-    text-align: left; /* Left-align the figure */
-}
-
 figcaption {
-    margin-left: 5px; /* Adjust the margin to move the caption slightly to the right */
+    margin-left: 15px; /* Adjust the margin to move the caption slightly to the right */
 }
-
 
 /* Table Styles */
 table {
