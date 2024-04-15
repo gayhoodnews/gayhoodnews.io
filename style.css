@@ -61,6 +61,17 @@ section figure {
     padding: 0;
 }
 
+
+figure {
+    display: inline-block; 
+    text-align: left; /* Left-align the figure */
+}
+
+figcaption {
+    margin-left: 5px; /* Adjust the margin to move the caption slightly to the right */
+}
+
+
 /* Table Styles */
 table {
     width: 100%;
