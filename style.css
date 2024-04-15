@@ -42,7 +42,7 @@ section ul>li {
 /* Image Styles */
 .image-container {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     margin-bottom: 25px;
     text-align: left;
     /* Add margin to create space between sections */
@@ -66,7 +66,7 @@ section figure {
 }
 
 figcaption {
-    margin-left: 15px; /* Adjust the margin to move the caption slightly to the right */
+    margin-left: 13px; /* Adjust the margin to move the caption slightly to the right */
 }
 
 /* Table Styles */
