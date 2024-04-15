@@ -40,7 +40,7 @@ section ul > li {
 .image-container {
     display: flex;
     justify-content: center;
-    margin-bottom: 20px; /* Add margin to create space between sections */
+    margin-bottom: 50px; /* Add margin to create space between sections */
     width: 15%;
 }
 
