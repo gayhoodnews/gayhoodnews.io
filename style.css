@@ -30,15 +30,20 @@ section {
     margin-bottom: 20px;
 }
 
+
 /* Image Styles */
 .image-container {
     display: flex;
     justify-content: center;
+    margin-bottom: 20px; /* Add margin to create space between sections */
 }
 
 .image-container img {
-    margin: 0 10px;
+    max-width: 100%; /* Ensure images are responsive and don't exceed their container */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0 10px; /* Adjust horizontal margin as needed */
 }
+
 
 /* Table Styles */
 table {
