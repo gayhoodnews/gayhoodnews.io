@@ -44,9 +44,9 @@ section ul > li {
 }
 
 .image-container img {
-    max-width: 45%; /* Ensure images are responsive and don't exceed their container */
+    width: 200px; /* Set the width of the images */
     height: auto; /* Maintain aspect ratio */
-    margin: 0 10px; /* Adjust horizontal margin as needed */
+    margin: 0 10px;
 }
 
 
